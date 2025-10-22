@@ -1,0 +1,414 @@
+{
+    "animals": [
+        {
+            "text": "ELEPHANT",
+            "help": "A large mammal with a trunk."
+        },
+        {
+            "text": "GIRAFFE",
+            "help": "An animal with a very long neck."
+        },
+        {
+            "text": "PENGUIN",
+            "help": "A flightless bird that lives in cold regions."
+        },
+        {
+            "text": "TIGER",
+            "help": "A large striped feline."
+        },
+        {
+            "text": "KANGAROO",
+            "help": "An animal that hops and carries its young in a pouch."
+        },
+        {
+            "text": "OCTOPUS",
+            "help": "An underwater creature with eight arms."
+        },
+        {
+            "text": "FALCON",
+            "help": "A bird of prey known for its speed."
+        },
+        {
+            "text": "RHINOCEROS",
+            "help": "A large animal with a horn on its nose."
+        },
+        {
+            "text": "DOLPHIN",
+            "help": "An intelligent marine mammal known for its playful behavior."
+        },
+        {
+            "text": "SLOTH",
+            "help": "A very slow-moving animal that lives in trees."
+        }
+    ],
+    "jobs": [
+        {
+            "text": "DOCTOR",
+            "help": "A professional who treats illnesses."
+        },
+        {
+            "text": "TEACHER",
+            "help": "Someone who educates students."
+        },
+        {
+            "text": "FIREFIGHTER",
+            "help": "A person who extinguishes fires."
+        },
+        {
+            "text": "CHEF",
+            "help": "A professional cook."
+        },
+        {
+            "text": "MECHANIC",
+            "help": "A person who repairs machines or engines."
+        },
+        {
+            "text": "PILOT",
+            "help": "Someone who flies airplanes."
+        },
+        {
+            "text": "PLUMBER",
+            "help": "A person who fixes pipes and water systems."
+        },
+        {
+            "text": "ARTIST",
+            "help": "Someone who creates visual or performing art."
+        },
+        {
+            "text": "ARCHITECT",
+            "help": "A person who designs buildings."
+        },
+        {
+            "text": "NURSE",
+            "help": "A healthcare professional who assists doctors and patients."
+        }
+    ],
+    "fruits": [
+        {
+            "text": "APPLE",
+            "help": "A red or green fruit often associated with the saying 'an ___ a day keeps the doctor away'."
+        },
+        {
+            "text": "BANANA",
+            "help": "A long, yellow fruit that is peeled before eating."
+        },
+        {
+            "text": "GRAPE",
+            "help": "A small, round fruit that comes in bunches."
+        },
+        {
+            "text": "MANGO",
+            "help": "A tropical fruit with a sweet and juicy orange flesh."
+        },
+        {
+            "text": "STRAWBERRY",
+            "help": "A red fruit with small seeds on its surface."
+        },
+        {
+            "text": "PINEAPPLE",
+            "help": "A spiky tropical fruit with a sweet yellow interior."
+        },
+        {
+            "text": "KIWI",
+            "help": "A small fruit with fuzzy brown skin and green flesh."
+        },
+        {
+            "text": "BLUEBERRY",
+            "help": "A small, round blue fruit often used in desserts."
+        },
+        {
+            "text": "WATERMELON",
+            "help": "A large green fruit with a red interior filled with seeds."
+        },
+        {
+            "text": "PEAR",
+            "help": "A fruit with a rounded body and a tapering neck."
+        }
+    ],
+    "countries": [
+        {
+            "text": "JAPAN",
+            "help": "An island country in East Asia known for its cherry blossoms and sushi."
+        },
+        {
+            "text": "BRAZIL",
+            "help": "A South American country famous for its Amazon rainforest and Carnival."
+        },
+        {
+            "text": "CANADA",
+            "help": "A large North American country known for its cold climate and maple syrup."
+        },
+        {
+            "text": "ITALY",
+            "help": "A European country famous for its pasta, pizza, and ancient ruins."
+        },
+        {
+            "text": "EGYPT",
+            "help": "A country in North Africa famous for its pyramids and the Nile River."
+        },
+        {
+            "text": "AUSTRALIA",
+            "help": "A country and continent known for kangaroos and the Great Barrier Reef."
+        },
+        {
+            "text": "INDIA",
+            "help": "A South Asian country famous for its spices, the Taj Mahal, and Bollywood."
+        },
+        {
+            "text": "MEXICO",
+            "help": "A country in North America known for tacos and ancient Mayan ruins."
+        },
+        {
+            "text": "GERMANY",
+            "help": "A European country known for its beer, sausages, and castles."
+        },
+        {
+            "text": "KENYA",
+            "help": "An African country known for its wildlife safaris and the Maasai people."
+        }
+    ],
+    "instruments": [
+        {
+            "text": "GUITAR",
+            "help": "A stringed instrument played by strumming or plucking."
+        },
+        {
+            "text": "PIANO",
+            "help": "A large instrument with black and white keys."
+        },
+        {
+            "text": "VIOLIN",
+            "help": "A small stringed instrument played with a bow."
+        },
+        {
+            "text": "DRUMS",
+            "help": "A percussion instrument hit with sticks."
+        },
+        {
+            "text": "TRUMPET",
+            "help": "A brass instrument with valves and a flared bell."
+        },
+        {
+            "text": "FLUTE",
+            "help": "A woodwind instrument played by blowing across a mouthpiece."
+        },
+        {
+            "text": "SAXOPHONE",
+            "help": "A brass instrument popular in jazz music."
+        },
+        {
+            "text": "HARMONICA",
+            "help": "A small hand-held wind instrument played by blowing and drawing air."
+        },
+        {
+            "text": "CELLO",
+            "help": "A large string instrument played while seated."
+        },
+        {
+            "text": "ACCORDION",
+            "help": "An instrument played by compressing and expanding a bellows while pressing keys."
+        }
+    ],
+    "sport": [
+        {
+            "text": "SOCCER",
+            "help": "A sport where you kick a ball into a goal."
+        },
+        {
+            "text": "BASKETBALL",
+            "help": "A sport where you shoot a ball through a hoop."
+        },
+        {
+            "text": "TENNIS",
+            "help": "A sport played with a racket and a small green ball."
+        },
+        {
+            "text": "SWIMMING",
+            "help": "A sport where you move through water using your body."
+        },
+        {
+            "text": "BOXING",
+            "help": "A combat sport where opponents punch each other in a ring."
+        },
+        {
+            "text": "GOLF",
+            "help": "A sport where you hit a small ball into a hole with a club."
+        },
+        {
+            "text": "HOCKEY",
+            "help": "A sport played on ice or grass with a stick and puck/ball."
+        },
+        {
+            "text": "CRICKET",
+            "help": "A sport where players use a bat to hit a ball and score runs."
+        },
+        {
+            "text": "RUGBY",
+            "help": "A contact sport where you carry and pass an oval-shaped ball."
+        },
+        {
+            "text": "VOLLEYBALL",
+            "help": "A sport where teams hit a ball over a net using their hands."
+        }
+    ],
+    "home": [
+        {
+            "text": "SOFA",
+            "help": "A comfortable piece of furniture you sit on in the living room."
+        },
+        {
+            "text": "BED",
+            "help": "A piece of furniture where you sleep."
+        },
+        {
+            "text": "FRIDGE",
+            "help": "An appliance used to keep food and drinks cold."
+        },
+        {
+            "text": "LAMP",
+            "help": "A device that provides light."
+        },
+        {
+            "text": "SHOWER",
+            "help": "A bathroom fixture where water flows to clean yourself."
+        },
+        {
+            "text": "TABLE",
+            "help": "A flat surface where you eat or work."
+        },
+        {
+            "text": "MICROWAVE",
+            "help": "A kitchen appliance used to quickly heat food."
+        },
+        {
+            "text": "CLOSET",
+            "help": "A small room or space where you store clothes."
+        },
+        {
+            "text": "CURTAINS",
+            "help": "Fabric that covers windows to block light."
+        },
+        {
+            "text": "SINK",
+            "help": "A basin with a faucet used for washing dishes or hands."
+        }
+    ],
+    "family": [
+        {
+            "text": "MOTHER",
+            "help": "A female parent."
+        },
+        {
+            "text": "FATHER",
+            "help": "A male parent."
+        },
+        {
+            "text": "BROTHER",
+            "help": "A male sibling."
+        },
+        {
+            "text": "SISTER",
+            "help": "A female sibling."
+        },
+        {
+            "text": "GRANDMOTHER",
+            "help": "The mother of your parent."
+        },
+        {
+            "text": "GRANDFATHER",
+            "help": "The father of your parent."
+        },
+        {
+            "text": "COUSIN",
+            "help": "A child of your aunt or uncle."
+        },
+        {
+            "text": "UNCLE",
+            "help": "The brother of your parent."
+        },
+        {
+            "text": "AUNT",
+            "help": "The sister of your parent."
+        },
+        {
+            "text": "NIECE",
+            "help": "The daughter of your sibling."
+        }
+    ],
+    "automobiles": [
+        {
+            "text": "SEDAN",
+            "help": "A common type of car with four doors and a separate trunk."
+        },
+        {
+            "text": "CONVERTIBLE",
+            "help": "A car with a roof that can be removed or folded back."
+        },
+        {
+            "text": "MINIVAN",
+            "help": "A family-friendly vehicle with sliding doors."
+        },
+        {
+            "text": "PICKUP",
+            "help": "A vehicle with a cabin for passengers and an open back for cargo."
+        },
+        {
+            "text": "MOTORCYCLE",
+            "help": "A two-wheeled vehicle powered by an engine."
+        },
+        {
+            "text": "SUV",
+            "help": "A large vehicle often used for off-road driving or carrying more passengers."
+        },
+        {
+            "text": "LIMOUSINE",
+            "help": "A long luxury car often used for special occasions."
+        },
+        {
+            "text": "BUS",
+            "help": "A large vehicle used for public transportation."
+        }
+    ],
+    "weather": [
+        {
+            "text": "RAIN",
+            "help": "Water droplets that fall from the sky."
+        },
+        {
+            "text": "SNOW",
+            "help": "Frozen water that falls in the form of white flakes."
+        },
+        {
+            "text": "SUNSHINE",
+            "help": "Bright light from the sun."
+        },
+        {
+            "text": "WIND",
+            "help": "Air in motion that you can feel blowing."
+        },
+        {
+            "text": "CLOUDY",
+            "help": "A sky covered with clouds."
+        },
+        {
+            "text": "STORM",
+            "help": "Severe weather with rain, thunder, and lightning."
+        },
+        {
+            "text": "FOG",
+            "help": "A thick mist that reduces visibility."
+        },
+        {
+            "text": "HURRICANE",
+            "help": "A powerful tropical storm with high winds."
+        },
+        {
+            "text": "HAIL",
+            "help": "Frozen pellets of ice that fall during some storms."
+        },
+        {
+            "text": "TORNADO",
+            "help": "A violent, spinning column of air that touches the ground."
+        }
+    ]
+}
